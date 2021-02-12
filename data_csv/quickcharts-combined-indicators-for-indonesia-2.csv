@@ -1,0 +1,225 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Indonesia,IDN,2018,"School enrollment, primary (% gross)",SE.PRM.ENRR,106.4108
+Indonesia,IDN,2017,"School enrollment, primary (% gross)",SE.PRM.ENRR,105.9114
+Indonesia,IDN,2016,"School enrollment, primary (% gross)",SE.PRM.ENRR,105.6099
+Indonesia,IDN,2015,"School enrollment, primary (% gross)",SE.PRM.ENRR,105.9602
+Indonesia,IDN,2014,"School enrollment, primary (% gross)",SE.PRM.ENRR,106.0734
+Indonesia,IDN,2013,"School enrollment, primary (% gross)",SE.PRM.ENRR,106.8416
+Indonesia,IDN,2012,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.2734
+Indonesia,IDN,2011,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.1798
+Indonesia,IDN,2010,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.1503
+Indonesia,IDN,2009,"School enrollment, primary (% gross)",SE.PRM.ENRR,108.54924
+Indonesia,IDN,2008,"School enrollment, primary (% gross)",SE.PRM.ENRR,107.82254
+Indonesia,IDN,2007,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.30577
+Indonesia,IDN,2006,"School enrollment, primary (% gross)",SE.PRM.ENRR,106.26838
+Indonesia,IDN,2005,"School enrollment, primary (% gross)",SE.PRM.ENRR,107.95544
+Indonesia,IDN,2004,"School enrollment, primary (% gross)",SE.PRM.ENRR,108.9343
+Indonesia,IDN,2003,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.52653
+Indonesia,IDN,2002,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.92095
+Indonesia,IDN,2001,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.75092
+Indonesia,IDN,2000,"School enrollment, primary (% gross)",SE.PRM.ENRR,108.75949
+Indonesia,IDN,1999,"School enrollment, primary (% gross)",SE.PRM.ENRR,111.351066589355
+Indonesia,IDN,1998,"School enrollment, primary (% gross)",SE.PRM.ENRR,110.734191894531
+Indonesia,IDN,1997,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.900550842285
+Indonesia,IDN,1996,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.964897155762
+Indonesia,IDN,1995,"School enrollment, primary (% gross)",SE.PRM.ENRR,110.483009338379
+Indonesia,IDN,1994,"School enrollment, primary (% gross)",SE.PRM.ENRR,110.963623046875
+Indonesia,IDN,1993,"School enrollment, primary (% gross)",SE.PRM.ENRR,110.242492675781
+Indonesia,IDN,1992,"School enrollment, primary (% gross)",SE.PRM.ENRR,110.887260437012
+Indonesia,IDN,1991,"School enrollment, primary (% gross)",SE.PRM.ENRR,112.62084197998
+Indonesia,IDN,1990,"School enrollment, primary (% gross)",SE.PRM.ENRR,114.34130859375
+Indonesia,IDN,1989,"School enrollment, primary (% gross)",SE.PRM.ENRR,116.313949584961
+Indonesia,IDN,1988,"School enrollment, primary (% gross)",SE.PRM.ENRR,117.153900146484
+Indonesia,IDN,1987,"School enrollment, primary (% gross)",SE.PRM.ENRR,118.101417541504
+Indonesia,IDN,1986,"School enrollment, primary (% gross)",SE.PRM.ENRR,119.597763061523
+Indonesia,IDN,1985,"School enrollment, primary (% gross)",SE.PRM.ENRR,121.16446685791
+Indonesia,IDN,1984,"School enrollment, primary (% gross)",SE.PRM.ENRR,119.569221496582
+Indonesia,IDN,1983,"School enrollment, primary (% gross)",SE.PRM.ENRR,116.704208374023
+Indonesia,IDN,1982,"School enrollment, primary (% gross)",SE.PRM.ENRR,114.472183227539
+Indonesia,IDN,1981,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.965431213379
+Indonesia,IDN,1978,"School enrollment, primary (% gross)",SE.PRM.ENRR,100.404136657715
+Indonesia,IDN,1977,"School enrollment, primary (% gross)",SE.PRM.ENRR,92.3019638061523
+Indonesia,IDN,1976,"School enrollment, primary (% gross)",SE.PRM.ENRR,89.8081512451172
+Indonesia,IDN,1975,"School enrollment, primary (% gross)",SE.PRM.ENRR,87.1401672363281
+Indonesia,IDN,1974,"School enrollment, primary (% gross)",SE.PRM.ENRR,85.024040222168
+Indonesia,IDN,1973,"School enrollment, primary (% gross)",SE.PRM.ENRR,86.1067504882813
+Indonesia,IDN,1972,"School enrollment, primary (% gross)",SE.PRM.ENRR,85.8248519897461
+Indonesia,IDN,1971,"School enrollment, primary (% gross)",SE.PRM.ENRR,84.8485336303711
+Indonesia,IDN,1970,"School enrollment, primary (% gross)",SE.PRM.ENRR,83.6803970336914
+Indonesia,IDN,2017,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.282
+Indonesia,IDN,2016,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,71.035
+Indonesia,IDN,2015,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.768
+Indonesia,IDN,2014,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.481
+Indonesia,IDN,2013,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,70.179
+Indonesia,IDN,2012,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.866
+Indonesia,IDN,2011,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.542
+Indonesia,IDN,2010,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,69.205
+Indonesia,IDN,2009,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.853
+Indonesia,IDN,2008,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.485
+Indonesia,IDN,2007,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,68.105
+Indonesia,IDN,2006,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.717
+Indonesia,IDN,2005,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,67.334
+Indonesia,IDN,2004,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.969
+Indonesia,IDN,2003,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.631
+Indonesia,IDN,2002,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.321
+Indonesia,IDN,2001,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,66.037
+Indonesia,IDN,2000,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.772
+Indonesia,IDN,1999,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.513
+Indonesia,IDN,1998,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,65.244
+Indonesia,IDN,1997,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.954
+Indonesia,IDN,1996,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.637
+Indonesia,IDN,1995,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,64.291
+Indonesia,IDN,1994,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.919
+Indonesia,IDN,1993,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.529
+Indonesia,IDN,1992,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,63.131
+Indonesia,IDN,1991,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.727
+Indonesia,IDN,1990,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,62.32
+Indonesia,IDN,1989,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.915
+Indonesia,IDN,1988,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.512
+Indonesia,IDN,1987,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,61.107
+Indonesia,IDN,1986,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.7
+Indonesia,IDN,1985,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,60.287
+Indonesia,IDN,1984,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.863
+Indonesia,IDN,1983,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,59.423
+Indonesia,IDN,1982,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.966
+Indonesia,IDN,1981,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,58.489
+Indonesia,IDN,1980,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,57.995
+Indonesia,IDN,1979,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,57.488
+Indonesia,IDN,1978,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,56.971
+Indonesia,IDN,1977,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,56.448
+Indonesia,IDN,1976,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.92
+Indonesia,IDN,1975,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,55.386
+Indonesia,IDN,1974,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,54.843
+Indonesia,IDN,1973,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,54.288
+Indonesia,IDN,1972,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,53.72
+Indonesia,IDN,1971,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,53.14
+Indonesia,IDN,1970,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,52.553
+Indonesia,IDN,1969,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,51.963
+Indonesia,IDN,1968,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,51.374
+Indonesia,IDN,1967,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,50.789
+Indonesia,IDN,1966,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,50.208
+Indonesia,IDN,1965,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,49.629
+Indonesia,IDN,1964,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,49.051
+Indonesia,IDN,1963,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,48.468
+Indonesia,IDN,1962,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,47.877
+Indonesia,IDN,1961,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,47.276
+Indonesia,IDN,1960,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,46.664
+Indonesia,IDN,2018,"Population, total",SP.POP.TOTL,267663435
+Indonesia,IDN,2017,"Population, total",SP.POP.TOTL,264645886
+Indonesia,IDN,2016,"Population, total",SP.POP.TOTL,261554226
+Indonesia,IDN,2015,"Population, total",SP.POP.TOTL,258383256
+Indonesia,IDN,2014,"Population, total",SP.POP.TOTL,255129004
+Indonesia,IDN,2013,"Population, total",SP.POP.TOTL,251806402
+Indonesia,IDN,2012,"Population, total",SP.POP.TOTL,248452413
+Indonesia,IDN,2011,"Population, total",SP.POP.TOTL,245116206
+Indonesia,IDN,2010,"Population, total",SP.POP.TOTL,241834215
+Indonesia,IDN,2009,"Population, total",SP.POP.TOTL,238620563
+Indonesia,IDN,2008,"Population, total",SP.POP.TOTL,235469762
+Indonesia,IDN,2007,"Population, total",SP.POP.TOTL,232374245
+Indonesia,IDN,2006,"Population, total",SP.POP.TOTL,229318262
+Indonesia,IDN,2005,"Population, total",SP.POP.TOTL,226289470
+Indonesia,IDN,2004,"Population, total",SP.POP.TOTL,223285676
+Indonesia,IDN,2003,"Population, total",SP.POP.TOTL,220309469
+Indonesia,IDN,2002,"Population, total",SP.POP.TOTL,217357793
+Indonesia,IDN,2001,"Population, total",SP.POP.TOTL,214427417
+Indonesia,IDN,2000,"Population, total",SP.POP.TOTL,211513823
+Indonesia,IDN,1999,"Population, total",SP.POP.TOTL,208615169
+Indonesia,IDN,1998,"Population, total",SP.POP.TOTL,205724592
+Indonesia,IDN,1997,"Population, total",SP.POP.TOTL,202826446
+Indonesia,IDN,1996,"Population, total",SP.POP.TOTL,199901228
+Indonesia,IDN,1995,"Population, total",SP.POP.TOTL,196934260
+Indonesia,IDN,1994,"Population, total",SP.POP.TOTL,193917462
+Indonesia,IDN,1993,"Population, total",SP.POP.TOTL,190851175
+Indonesia,IDN,1992,"Population, total",SP.POP.TOTL,187739786
+Indonesia,IDN,1991,"Population, total",SP.POP.TOTL,184591903
+Indonesia,IDN,1990,"Population, total",SP.POP.TOTL,181413402
+Indonesia,IDN,1989,"Population, total",SP.POP.TOTL,178209150
+Indonesia,IDN,1988,"Population, total",SP.POP.TOTL,174975954
+Indonesia,IDN,1987,"Population, total",SP.POP.TOTL,171702763
+Indonesia,IDN,1986,"Population, total",SP.POP.TOTL,168374287
+Indonesia,IDN,1985,"Population, total",SP.POP.TOTL,164982451
+Indonesia,IDN,1984,"Population, total",SP.POP.TOTL,161523347
+Indonesia,IDN,1983,"Population, total",SP.POP.TOTL,158009246
+Indonesia,IDN,1982,"Population, total",SP.POP.TOTL,154468229
+Indonesia,IDN,1981,"Population, total",SP.POP.TOTL,150938232
+Indonesia,IDN,1980,"Population, total",SP.POP.TOTL,147447836
+Indonesia,IDN,1979,"Population, total",SP.POP.TOTL,144009845
+Indonesia,IDN,1978,"Population, total",SP.POP.TOTL,140621730
+Indonesia,IDN,1977,"Population, total",SP.POP.TOTL,137278058
+Indonesia,IDN,1976,"Population, total",SP.POP.TOTL,133966941
+Indonesia,IDN,1975,"Population, total",SP.POP.TOTL,130680727
+Indonesia,IDN,1974,"Population, total",SP.POP.TOTL,127422211
+Indonesia,IDN,1973,"Population, total",SP.POP.TOTL,124199687
+Indonesia,IDN,1972,"Population, total",SP.POP.TOTL,121017314
+Indonesia,IDN,1971,"Population, total",SP.POP.TOTL,117880144
+Indonesia,IDN,1970,"Population, total",SP.POP.TOTL,114793178
+Indonesia,IDN,1969,"Population, total",SP.POP.TOTL,111758563
+Indonesia,IDN,1968,"Population, total",SP.POP.TOTL,108779924
+Indonesia,IDN,1967,"Population, total",SP.POP.TOTL,105865571
+Indonesia,IDN,1966,"Population, total",SP.POP.TOTL,103025426
+Indonesia,IDN,1965,"Population, total",SP.POP.TOTL,100267062
+Indonesia,IDN,1964,"Population, total",SP.POP.TOTL,97596733
+Indonesia,IDN,1963,"Population, total",SP.POP.TOTL,95015297
+Indonesia,IDN,1962,"Population, total",SP.POP.TOTL,92518377
+Indonesia,IDN,1961,"Population, total",SP.POP.TOTL,90098394
+Indonesia,IDN,1960,"Population, total",SP.POP.TOTL,87751068
+Indonesia,IDN,2018,"Population, total",SP.POP.TOTL,267663435
+Indonesia,IDN,2017,"Population, total",SP.POP.TOTL,264645886
+Indonesia,IDN,2016,"Population, total",SP.POP.TOTL,261554226
+Indonesia,IDN,2015,"Population, total",SP.POP.TOTL,258383256
+Indonesia,IDN,2014,"Population, total",SP.POP.TOTL,255129004
+Indonesia,IDN,2013,"Population, total",SP.POP.TOTL,251806402
+Indonesia,IDN,2012,"Population, total",SP.POP.TOTL,248452413
+Indonesia,IDN,2011,"Population, total",SP.POP.TOTL,245116206
+Indonesia,IDN,2010,"Population, total",SP.POP.TOTL,241834215
+Indonesia,IDN,2009,"Population, total",SP.POP.TOTL,238620563
+Indonesia,IDN,2008,"Population, total",SP.POP.TOTL,235469762
+Indonesia,IDN,2007,"Population, total",SP.POP.TOTL,232374245
+Indonesia,IDN,2006,"Population, total",SP.POP.TOTL,229318262
+Indonesia,IDN,2005,"Population, total",SP.POP.TOTL,226289470
+Indonesia,IDN,2004,"Population, total",SP.POP.TOTL,223285676
+Indonesia,IDN,2003,"Population, total",SP.POP.TOTL,220309469
+Indonesia,IDN,2002,"Population, total",SP.POP.TOTL,217357793
+Indonesia,IDN,2001,"Population, total",SP.POP.TOTL,214427417
+Indonesia,IDN,2000,"Population, total",SP.POP.TOTL,211513823
+Indonesia,IDN,1999,"Population, total",SP.POP.TOTL,208615169
+Indonesia,IDN,1998,"Population, total",SP.POP.TOTL,205724592
+Indonesia,IDN,1997,"Population, total",SP.POP.TOTL,202826446
+Indonesia,IDN,1996,"Population, total",SP.POP.TOTL,199901228
+Indonesia,IDN,1995,"Population, total",SP.POP.TOTL,196934260
+Indonesia,IDN,1994,"Population, total",SP.POP.TOTL,193917462
+Indonesia,IDN,1993,"Population, total",SP.POP.TOTL,190851175
+Indonesia,IDN,1992,"Population, total",SP.POP.TOTL,187739786
+Indonesia,IDN,1991,"Population, total",SP.POP.TOTL,184591903
+Indonesia,IDN,1990,"Population, total",SP.POP.TOTL,181413402
+Indonesia,IDN,1989,"Population, total",SP.POP.TOTL,178209150
+Indonesia,IDN,1988,"Population, total",SP.POP.TOTL,174975954
+Indonesia,IDN,1987,"Population, total",SP.POP.TOTL,171702763
+Indonesia,IDN,1986,"Population, total",SP.POP.TOTL,168374287
+Indonesia,IDN,1985,"Population, total",SP.POP.TOTL,164982451
+Indonesia,IDN,1984,"Population, total",SP.POP.TOTL,161523347
+Indonesia,IDN,1983,"Population, total",SP.POP.TOTL,158009246
+Indonesia,IDN,1982,"Population, total",SP.POP.TOTL,154468229
+Indonesia,IDN,1981,"Population, total",SP.POP.TOTL,150938232
+Indonesia,IDN,1980,"Population, total",SP.POP.TOTL,147447836
+Indonesia,IDN,1979,"Population, total",SP.POP.TOTL,144009845
+Indonesia,IDN,1978,"Population, total",SP.POP.TOTL,140621730
+Indonesia,IDN,1977,"Population, total",SP.POP.TOTL,137278058
+Indonesia,IDN,1976,"Population, total",SP.POP.TOTL,133966941
+Indonesia,IDN,1975,"Population, total",SP.POP.TOTL,130680727
+Indonesia,IDN,1974,"Population, total",SP.POP.TOTL,127422211
+Indonesia,IDN,1973,"Population, total",SP.POP.TOTL,124199687
+Indonesia,IDN,1972,"Population, total",SP.POP.TOTL,121017314
+Indonesia,IDN,1971,"Population, total",SP.POP.TOTL,117880144
+Indonesia,IDN,1970,"Population, total",SP.POP.TOTL,114793178
+Indonesia,IDN,1969,"Population, total",SP.POP.TOTL,111758563
+Indonesia,IDN,1968,"Population, total",SP.POP.TOTL,108779924
+Indonesia,IDN,1967,"Population, total",SP.POP.TOTL,105865571
+Indonesia,IDN,1966,"Population, total",SP.POP.TOTL,103025426
+Indonesia,IDN,1965,"Population, total",SP.POP.TOTL,100267062
+Indonesia,IDN,1964,"Population, total",SP.POP.TOTL,97596733
+Indonesia,IDN,1963,"Population, total",SP.POP.TOTL,95015297
+Indonesia,IDN,1962,"Population, total",SP.POP.TOTL,92518377
+Indonesia,IDN,1961,"Population, total",SP.POP.TOTL,90098394
+Indonesia,IDN,1960,"Population, total",SP.POP.TOTL,87751068
